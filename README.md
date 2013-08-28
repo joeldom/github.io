@@ -1,4 +1,10 @@
-github.io
-=========
+HTML5 Muffin chocchip steps
+============================
 
-testing out some new svn and Jekyll stuff
+Run bundle install
+
+	bundle install
+
+Run jekyll
+
+	jekyll
